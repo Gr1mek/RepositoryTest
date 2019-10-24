@@ -1,0 +1,5 @@
+/f1/*.txt
+/f2/i1.bmp
+/f2/i1.txt
+/F3/*
+!/F3/i1.bmp
